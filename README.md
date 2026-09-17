@@ -17,3 +17,6 @@
 ```powershell
 mkdir dir1
 mkdir dir2
+
+<img width="838" height="447" alt="image" src="https://github.com/user-attachments/assets/5761de92-5f99-40a9-bdb5-4574b02721c0" />
+
